@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.0" fill="#CBD5E1" id="katman_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px"
+	y="0px" viewBox="0 0 600 450" style="enable-background:new 0 0 600 450;" xml:space="preserve">
+	<style type="text/css">
+		.st0 {
+			filter: url(#Adobe_OpacityMaskFilter);
+		}
+
+		.st1 {
+			fill-rule: evenodd;
+			clip-rule: evenodd;
+			fill: #CBD5E1;
+		}
+
+		.st2 {
+			mask: url(#b_00000005955951470979342460000009121593678243019693_);
+			fill-rule: evenodd;
+			clip-rule: evenodd;
+		}
+	</style>
+	<g>
+		<g transform="translate(21.383 13)">
+			<defs>
+				<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="62" y="182.3" width="432.6"
+					height="58.9">
+					<feColorMatrix type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0" />
+				</filter>
+			</defs>
+
+			<mask maskUnits="userSpaceOnUse" x="62" y="182.3" width="432.6" height="58.9"
+				id="b_00000005955951470979342460000009121593678243019693_">
+				<g class="st0">
+					<path id="a_00000125588975031328902980000013309626296470269848_" class="st1"
+						d="M62,182.3h432.6v58.9H62V182.3z" />
+				</g>
+			</mask>
+			<path class="st2" d="M279.6,192.4v-10.1h-44.2v10.9h27.7l-27.7,37.7v10h44.7V230h-28.4C251.7,230,279.6,192.4,279.6,192.4z
+			 M289.6,241.2h12.6v-58.9h-12.6V241.2L289.6,241.2z M454.7,220.2l9.2-25.3l9.2,25.3H454.7z M471.8,182.3h-24.2l5.8,7.4l-1,2.8
+			l-18.7,48.5h14.2l3.7-9.9h25.3l3.7,9.9h14.1L471.8,182.3z M355.4,219.3l-27.3-36.9h-18.7l5.8,7.4v51.4h12.6v-38.5l28.1,38.3h11.9
+			v-58.6h-12.5V219.3z M411.9,219.3h6.5v6.9c-3.4,2.8-7.6,4.3-12,4.4c-10.5,0-17.8-8-17.8-18.7c0-10.7,7.4-18.7,17.8-18.7
+			c5.4,0,10.5,2.8,13.4,7.4l9.9-5.5c-4.2-6.7-11.7-12.7-23.4-12.7c-16.6,0-30.4,11.5-30.4,29.3c0,17.8,13.6,29.3,30.4,29.3
+			c9.2,0.2,17.9-3.8,24-10.6v-21.7h-26.8L411.9,219.3L411.9,219.3z M96.5,230.1H80.2v-13.5h16.3c4.8,0,7.4,3,7.4,6.7
+			C103.9,227.5,101.1,230,96.5,230.1L96.5,230.1z M80.2,193.3h15.7c4.2,0,6.9,2.5,6.9,6.2s-2.7,6.2-6.9,6.2H80.2V193.3z
+			 M105.3,210.8c5.5-1,10.1-6.2,10.1-13.4c0-7.8-5.7-15.1-17-15.1H62l5.7,7.3V241h32c11.3,0,17.2-7.1,17.2-15.9
+			C116.6,217.9,111.6,211.6,105.3,210.8z M215.7,219.3l-27.2-36.9h-18.7l5.9,7.4v51.4h12.5v-38.5l28.1,38.3h12v-58.6h-12.6V219.3z
+			 M124.2,240.9h41.5V230h-28.9v-13.4h24v-10.9h-24v-12.4h29.1v-10.9h-41.7L124.2,240.9L124.2,240.9z" />
+		</g>
+	</g>
+</svg>

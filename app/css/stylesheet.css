@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Hellbone';
+    src: url('HellboneRegular.woff2') format('woff2'),
+        url('HellboneRegular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
